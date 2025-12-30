@@ -1,0 +1,2 @@
+# crFbjOGfwQ
+本系统是一款基于Java和SSM框架的OA办公管理系统，采用B/S架构和MVC设计模式。主要用途是实现企业内部办公自动化，核心功能包括文档管理、流程审批、日程安排等，有效提升工作效率和团队协作。系统使用Jsp、CSS、Html、JavaScript等技术构建前后端，支持MySQL数据库，可在Windows环境下运行。通过集成Spring、SpringMVC和Mybatis，确保系统稳定性与可扩展性。适用于需要高效办公管理的各类企事业单位。
